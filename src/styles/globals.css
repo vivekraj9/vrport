@@ -1,0 +1,10 @@
+@media (max-width: 639px){
+    .sm\:col-span-12 {
+              grid-column: span 12 / span 12 !important;
+              width: 129% !important;
+          }
+        }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
