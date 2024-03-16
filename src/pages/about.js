@@ -51,8 +51,9 @@ const about = () => {
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">About Me</h2>
               <p className="font-medium">
-              Hello! I'm a dedicated and imaginative web developer, well-versed in open source, and experienced in both frontend and backend development. My portfolio includes the creation and deployment of diverse web applications using cutting-edge technologies such as React, Node.js, Vite.js, Next.js, MongoDB, and Firebase. My coding expertise extends to JavaScript, C/C++, and Python. Eager to expand my skill set, I'm on the lookout for internship opportunities where I can contribute my knowledge and thrive in a professional environment. Excited about the prospect of working on innovative projects that leave a positive impact on the world, I am ready to take on new challenges and continue my journey of growth in the field.
-              </p>
+  Hello! I&apos;m a dedicated and imaginative web developer, well-versed in open source, and experienced in both frontend and backend development. My portfolio includes the creation and deployment of diverse web applications using cutting-edge technologies such as React, Node.js, Vite.js, Next.js, MongoDB, and Firebase. My coding expertise extends to JavaScript, C/C++, and Python. Eager to expand my skill set, I&apos;m on the lookout for internship opportunities where I can contribute my knowledge and thrive in a professional environment. Excited about the prospect of working on innovative projects that leave a positive impact on the world, I am ready to take on new challenges and continue my journey of growth in the field.
+</p>
+
 
               {/* <p className="my-4 font-medium">
                 I believe web development is more than just writing code – it&apos;s about solving challenges and crafting intuitive experiences for users. Whether I&apos;m building a full-stack web app or a classic PONG game, my commitment to engineering excellence and user-centered design is evident. I look forward to utilizing my skills and passion to make a significant impact on your next project.
