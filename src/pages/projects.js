@@ -193,20 +193,20 @@ const Projects = () => {
               <Project
                 title="Emotion detection"
                 img={project6}
-                summary="Created a Travel Advisor website using Reactjs, Material UI, GoogleMap API and Rapid API. This is a web application that allow users to find Restaurants, Hotels and Attractions around them. This website will automatically detect your location and will suggest you the hotels and restaurants around you. You can also search for different places by using the searchbar or you can simply navigate it directly using the map."
-                link="https://mytravelgo.netlify.app/"
-                github="https://github.com/anirudhsalaria/Travel-advisor"
+                summary="Developed an emotion detection system using Convolutional Neural Networks (CNN) to accurately identify and classify human emotions from facial expressions, enhancing real-time applications in security, healthcare, and user experience."
+                link="https://github.com/vivekraj9/Emotion-Detection"
+                github="https://github.com/vivekraj9/Emotion-Detection"
                 type="Project"
               />
             </div>
             <div className="col-span-6 
             sm:col-span-12">
               <Project
-                title="Password Generator"
+                title="Object Detection"
                 img={project4}
-                summary="Created a news website using React, Bootstrap, and News API This is a web application that allows users to read daily news headlines from various sources and categories. I have used React for the front-end, Bootstrap for the UI framework, and News API for the news data API. I have also implemented features such as filtering and sorting."
-                link="https://github.com/anirudhsalaria/GoNews"
-                github="https://github.com/anirudhsalaria/GoNews"
+                summary="Implemented a robust construction site safety system utilizing YOLOv8, a cutting-edge object detection model. This solution enhances worker safety by accurately detecting and monitoring safety gear such as helmets and vests, ensuring compliance with regulations and minimizing risks in real-time construction environments."
+                link="https://github.com/vivekraj9/Safety-Object-Detection"
+                github="https://github.com/vivekraj9/Safety-Object-Detection"
                 type="Project"
               />
             </div>
@@ -215,9 +215,9 @@ const Projects = () => {
               <Project
                 title="Tic Tac Toe"
                 img={project5}
-                summary="Created an online chatting room where people can come and chat. I have used Firebase for Google authentication, Vite-ReactJS for the frontend, and Tailwind CSS for the UI design. This is a web application that allows users to sign in with their Google account, join chat rooms, and send or receive messages in real-time."
-                link="https://onecamone.netlify.app/"
-                github="https://github.com/anirudhsalaria/VideoCall"
+                summary="Created a classic Tic Tac Toe game featuring intuitive gameplay and interactive design. Play against a friend or AI, with responsive UI elements and strategic depth, providing a fun and engaging experience for all ages."
+                link="https://vivekraj9.github.io/tic-tac-toe/"
+                github="https://github.com/vivekraj9/tic-tac-toe"
                 type="Project"
               />
             </div>
@@ -227,9 +227,9 @@ const Projects = () => {
               <Project
                 title="Stone Paper Scissors"
                 img={project3}
-                summary="Created an online chatting room where people can come and chat. I have used Firebase for Google authentication, Vite-ReactJS for the frontend, and Tailwind CSS for the UI design. This is a web application that allows users to sign in with their Google account, join chat rooms, and send or receive messages in real-time."
-                link="https://wechatline.netlify.app/"
-                github="https://github.com/anirudhsalaria/Chatline"
+                summary="Developed an interactive Stone-Paper-Scissors game with a sleek interface and responsive gameplay. Enjoy playing against a computer or another player, experiencing classic strategy and quick decision-making in a modern digital format."
+                link="https://vivekraj9.github.io/stone-paper-scissor/"
+                github="https://github.com/vivekraj9/stone-paper-scissor"
                 type="Project"
               />
             </div>
@@ -238,9 +238,9 @@ const Projects = () => {
               <Project
                 title="Clone of Razorpay-website"
                 img={project7}
-                summary="Created a study material website, here you can find all the study material required to pass Btech CSE! I have used NextJs for the frontend, Tailwind CSS for the UI framework and Strapi CMS for the backend. All the content is stored on Strapi and it is deployed on Render."
-                link="https://csmart.netlify.app/"
-                github="https://github.com/anirudhsalaria/CSmart"
+                summary="Created a clone of Razorpay using Tailwind CSS, combining sleek design with robust payment functionalities. This project replicates Razorpay's user interface and features, offering a modern, responsive, and customizable payment gateway solution."
+                link="https://vr-razorpay.netlify.app/"
+                github="https://github.com/vivekraj9/razorpay"
                 type="Project"
               />
             </div>
@@ -249,9 +249,9 @@ const Projects = () => {
               <Project
                 title="Text Utility- Website"
                 img={project8}
-                summary="Created a Harry Potter frontend website from scratch using HTML and CSS. This is a web application that allows users to download Harry Potter books. This website has a very good frontend that is appealing to all people. It has a theme based on the Harry Potter world, with images, fonts, colors, and animations that create a magical experience."
-                link="https://anirudhsalaria.github.io/Harrypotter/"
-                github="https://github.com/anirudhsalaria/Harrypotter"
+                summary="Developed a versatile text utility application offering essential functionalities like text formatting, character counting, and text transformation. Enhances productivity by simplifying tasks such as case conversion, encoding, and decoding operations, ensuring efficient handling of textual data."
+                link="https://vrtextutil.netlify.app/"
+                github="https://github.com/vivekraj9/TextUtils-React"
                 type="Project"
               />
             </div>
