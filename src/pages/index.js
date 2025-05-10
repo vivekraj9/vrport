@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Layout from '../components/Layout'
 import Image from 'next/image'
-import profilePic from '../../public/images/profile/IMG20240208183118.png'
+import profilePic from '../../public/images/profile/Untitled-9_00-removebg-preview.png'
 import AnimatedText from '@/components/AnimatedText'
 import Link from 'next/link'
 import { LinkArrow } from '@/components/Icons'
@@ -24,11 +24,11 @@ export default function Home() {
           
           <div className='flex items-center justify-between w-full lg:flex-col'>
             <div className='w-1/2 md:w-full'>
-              {/* <Image src={profilePic} alt="Vivek Raj" className='w-[520px] h-[570px] lg:hidden md:inline-block sm:h-auto sm:w-full' priority
+              <Image src={profilePic} alt="Vivek Raj" className='w-[520px] h-[570px] lg:hidden md:inline-block sm:h-auto sm:w-full' priority
               sizes='(max-width: 768px) 100vw, 
               (max-width: 1200px) 50vw,
               50vw'
-              /> */}
+              />
             </div>
             <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
               <AnimatedText text="Harnessing Code to Bring Visions to Life." className='!text-6xl !text-left 
